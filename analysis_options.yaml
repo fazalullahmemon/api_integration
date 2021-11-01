@@ -1,0 +1,11 @@
+
+# include: package:flutter_lints/flutter.yaml
+include: package:lint/analysis_options.yaml
+
+analyzer:
+  errors:
+    prefer_const_constructors: ignore
+    argument_type_not_assignable: ignore
+    prefer_const_constructors_in_immutables: ignore
+    file_names: ignore
+
